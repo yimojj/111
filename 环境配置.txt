@@ -1,0 +1,6 @@
+以下数据库配置数据可在db.js和app.js中更改
+数据库名称：cc
+端口：3306，
+用户名：root
+密码：123456
+在主文件夹内安装npm install配置环境，将db文件夹里的数据库安装到本地，在express文件夹下使用node app.js启动后端端口，在主文件夹下使用npm run serve 启动前端页面即可，public里img文件夹里的图片资源我删了不影响运行。
